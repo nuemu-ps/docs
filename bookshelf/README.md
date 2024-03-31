@@ -29,4 +29,5 @@
 | 25  | 9784488003982 | 海賊たちは黄金を目指す             | Keith Thomson                            | [Link](9784488003982.md) |
 | 26  | 9784062924528 | 水滸伝（二）                       | 井波　律子                               | [Link](9784062924528.md) |
 | 27  | 9784873119762 | Head First デザインパターン        | Eric Freeman, Elisabeth Robson           | [Link](9784873119762.md) |
+| 28  | 9784296070428 | コンピュータネットワーク           | Andrew S. Tanenbaum, David J. Wetherall  | [Link](9784296070428.md) |
 |     | 9784          |                                    |                                          | [Link](.md)              |
