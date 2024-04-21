@@ -31,4 +31,5 @@
 | 27  | 9784873119762 | Head First デザインパターン        | Eric Freeman, Elisabeth Robson           | [Link](9784873119762.md) |
 | 28  | 9784296070428 | コンピュータネットワーク           | Andrew S. Tanenbaum, David J. Wetherall  | [Link](9784296070428.md) |
 | 29  | 9784326101849 | 悪夢の医療史                       | W.ラフルーア, G.ベーメ, 島薗 進          | [Link](9784326101849.md) |
+| 30  | 9784873118352 | Effective DevOps                   | Jfennier Davis, Ryn Daniels              | [Link](9784873118352.md) |
 |     | 9784          |                                    |                                          | [Link](.md)              |
